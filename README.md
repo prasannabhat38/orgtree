@@ -10,6 +10,7 @@ Software requirements:
 Libraries:
 1. Spring (Core container and MVC)
 2. Gson for JSON serialization/deserialization from APIs
+3. JavaScript Library for UI OrgTree: https://github.com/dabeng/OrgChart/blob/master/README.md
 3. Log4j for logging
 
 Deployment:
